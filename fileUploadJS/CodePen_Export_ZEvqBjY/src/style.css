@@ -1,0 +1,12 @@
+h1 {
+  font-family: Arial;
+  font-size: 30px;
+  color: green;
+}
+canvas {
+  width: 100px;
+  border: 1px solid;
+}
+input {
+  font-size: 15px;
+}
